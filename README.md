@@ -16,7 +16,7 @@
 
 [Tests](#Tests)
 
-[How to Contribute](#Contribute)
+[How to Contribute](#How-to-Contribute)
 
 [Report Issues](#Report-issues)
 
