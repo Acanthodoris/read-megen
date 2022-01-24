@@ -73,15 +73,15 @@ const generateReadme = ({
 
 ### Table of Contents
 
-[Installation](#installation)
+[Installation](#Installation)
 
 [How to use](#How-to-use)
 
-[Licenses Used](#licenses)
+[Licenses Used](Licenses-Used)
 
-[Tests](#tests)
+[Tests](#Tests)
 
-[How to Contribute](#Contribute)
+[How to Contribute](#How-to-Contribute)
 
 [Report Issues](#Report-issues)
 
@@ -89,7 +89,7 @@ const generateReadme = ({
 ## How-to-use:
 * ${howToUse}
 
-## How-to-install:
+## Installation:
 * ${installation}
 
 ## Licenses-Used:
@@ -98,7 +98,7 @@ const generateReadme = ({
 ## Tests:
 * ${tests}
 
-## How-to-Contribute-to-this-Project:
+## How-to-Contribute:
 * ${contribute}
 
 ## Report-issues:
