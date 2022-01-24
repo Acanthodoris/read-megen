@@ -12,7 +12,7 @@
 
 [How to use](#How-to-use)
 
-[Licenses Used](#Licenses)
+[Licenses Used](#Licenses-Used)
 
 [Tests](#Tests)
 
@@ -34,7 +34,7 @@
 * I tested the project by running it in the intergrated terminal.
 ![a demo of how to test the app](/demo.gif)
 
-## How-to-Contribute-to-this-Project:
+## How-to-Contribute:
 * No guidelines, but you can reach out to me via my Github or by email.
 
 ## Report-issues:
