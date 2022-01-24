@@ -24,7 +24,7 @@
 ## How-to-use:
 * To install, clone this respoisty to your local machine, open in VS Code, open the file in the intergated terminal (be sure to have node.js installed), and then run the comand 'nmp install'. Once the JSON packages are installed run the command 'node index.js' then you will begin to anwser questions to generate your README.
 
-## How-to-install:
+## Installation:
 * To use the my project start by running the comand 'node index.js', once all of the anwsers have been completed the app will generate a new README with the project name in the currecnt directory.
 
 ## Licenses-Used:
