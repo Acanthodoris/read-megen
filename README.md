@@ -8,13 +8,13 @@
 
 ### Table of Contents
 
-[Installation](#installation)
+[Installation](#Installation)
 
 [How to use](#How-to-use)
 
-[Licenses Used](#licenses)
+[Licenses Used](#Licenses)
 
-[Tests](#tests)
+[Tests](#Tests)
 
 [How to Contribute](#Contribute)
 
